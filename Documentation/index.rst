@@ -38,6 +38,8 @@ The documentation is divided into the following sections:
 * :ref:`dev_guide` : Gives background to those looking to develop and contribute
   modifications to the Cilium code or documentation.
 
+* :ref:`sec_summary` : Provides a one-page resource for securing Cilium.
+
 A `hands-on tutorial <https://play.instruqt.com/isovalent/invite/j4maqox5r1h5>`_ 
 in a live environment is also available for users looking for a way to quickly
 get started and experiment with Cilium.
@@ -46,12 +48,6 @@ get started and experiment with Cilium.
    :maxdepth: 2
    :caption: Getting Started
 
-<<<<<<< Updated upstream
-   intro
-   gettingstarted/index
-   concepts/index
-   gettinghelp
-=======
    gettingstarted/k8s-install-default
    gettingstarted/hubble_intro
    gettingstarted/hubble_setup
@@ -102,7 +98,6 @@ get started and experiment with Cilium.
    observability/grafana
    observability/metrics
    observability/visibility
->>>>>>> Stashed changes
 
 .. toctree::
    :maxdepth: 2
