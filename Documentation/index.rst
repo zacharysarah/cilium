@@ -46,10 +46,63 @@ get started and experiment with Cilium.
    :maxdepth: 2
    :caption: Getting Started
 
+<<<<<<< Updated upstream
    intro
    gettingstarted/index
    concepts/index
    gettinghelp
+=======
+   gettingstarted/k8s-install-default
+   gettingstarted/hubble_intro
+   gettingstarted/hubble_setup
+   gettingstarted/hubble-configuration
+   gettingstarted/hubble
+   gettingstarted/hubble_cli.rst
+   gettingstarted/demo
+   gettingstarted/terminology
+   gettingstarted/gettinghelp
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Advanced Installation
+
+   installation/taints
+   installation/k8s-install-helm
+   installation/k8s-toc
+   installation/external-toc
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Networking
+
+   network/concepts/index
+   network/kubernetes/index
+   network/bgp-toc
+   network/ebpf/index
+   network/clustermesh/index
+   network/external-toc
+   network/servicemesh/index
+   network/istio
+   network/vtep
+   network/lb-ipam
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Security
+
+   security/summary
+   security/network/index
+   security/policy/index
+   security/tutorial-toc
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Observability
+
+   observability/grafana
+   observability/metrics
+   observability/visibility
+>>>>>>> Stashed changes
 
 .. toctree::
    :maxdepth: 2
