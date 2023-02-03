@@ -15,16 +15,24 @@ This page links to best practices for securing Cilium.
 Restricting privileged Cilium pod access
 ========================================
 
-
+:ref:`sec_best_practices`
 
 Securing GRPC
 =============
 
+:ref:`gs_grpc`
+
 Securing Elasticsearch
 ======================
+
+:ref:`gs_elasticsearch`
 
 Securing a Cassandra database
 =============================
 
+:ref:`gs_cassandra`
+
 Securing Memcached
 ==================
+
+:ref:`gs_memcached`

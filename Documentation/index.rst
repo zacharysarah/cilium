@@ -87,9 +87,7 @@ get started and experiment with Cilium.
    :caption: Security
 
    security/summary
-   security/network/index
-   security/policy/index
-   security/tutorial-toc
+   security/restrict-pod-access
 
 .. toctree::
    :maxdepth: 2
