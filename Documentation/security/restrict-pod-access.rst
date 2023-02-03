@@ -1,0 +1,1 @@
+Restricting privileged Cilium pod access
